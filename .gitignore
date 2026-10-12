@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+models/
+local-data/
+exports/
+*.log
+.env
+.env.*
+!*.example
+*.sqlite*
+*.db
+*.wav
+*.mp4
+*.webm

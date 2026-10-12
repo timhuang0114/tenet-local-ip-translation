@@ -1,0 +1,34 @@
+{
+  "patent": {
+    "label": "Synthetic Japanese patent",
+    "kind": "patent",
+    "source_text": "【0001】本実施形態の温度監視装置は、筐体10、センサ20及び制御部30を備える。\n\n【0002】センサ20は、筐体10内の温度を検出し、検出結果を制御部30に送信する。\n\n【請求項1】筐体10と、センサ20と、検出した温度が25°C以上の場合に警告を出力する制御部30と、を備える温度監視装置。",
+    "drafts": [
+      "【0001】本實施形態之溫度監視裝置具備外殼10、檢測器20及控制部30。",
+      "【0002】感測器20檢測外殼10內之溫度，並將檢測結果傳送至控制部30。",
+      "【請求項1】一種溫度監視裝置，具備外殼10、感測器20，以及於所檢測之溫度為28°C以上時輸出警告之控制部30。"
+    ],
+    "glossary": [
+      {"source":"筐体","target":"外殼","alternatives":[]},
+      {"source":"センサ","target":"感測器","alternatives":["檢測器"]},
+      {"source":"制御部","target":"控制部","alternatives":[]},
+      {"source":"温度監視装置","target":"溫度監視裝置","alternatives":[]}
+    ],
+    "notice":"All text is synthetic. Drafts contain two deliberate defects for QA demonstration."
+  },
+  "trademark": {
+    "label": "Synthetic English trademark case",
+    "kind": "trademark",
+    "source_text": "Mark: LEXORA. Applicant: Aster Example Ltd.\n\nClass 9: Downloadable software for analysing sensor data; recorded computer programs.",
+    "drafts": [
+      "商標：LEXORA。申請人：Aster Example Ltd.。",
+      "第9類：用於分析感測器資料之可下載軟體；已錄製之電腦程式。"
+    ],
+    "glossary": [
+      {"source":"Downloadable software","target":"可下載軟體","alternatives":[]},
+      {"source":"recorded computer programs","target":"已錄製之電腦程式","alternatives":[]},
+      {"source":"sensor data","target":"感測器資料","alternatives":[]}
+    ],
+    "notice":"All names and text are synthetic. No classification or registrability opinion is provided."
+  }
+}

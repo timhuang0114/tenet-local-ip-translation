@@ -1,0 +1,4 @@
+# Optional. Install into your own virtual environment.
+# Validate and freeze exact versions in the organizer environment before benchmarking.
+openvino-genai
+optimum-intel[openvino]
